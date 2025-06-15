@@ -53,7 +53,7 @@ Perfect for understanding DOM manipulation, event handling, conditional logic, a
 
 You can try the game right now via GitHub Pages:
 
-👉 **[Play Risk & Roll](https://shivam56291.github.io/Amour-Weather/)** 
+👉 **[Play Risk & Roll](https://shivam56291.github.io/Risk-Roll/)** 
 
 Or clone the repo: https://github.com/Shivam56291/Risk-Roll
 
